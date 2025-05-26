@@ -1,0 +1,45 @@
+# macOS системные файлы
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS кэш Spotlight
+.Spotlight-V100
+.Trashes
+
+# macOS кэш файловой системы
+.fseventsd
+.VolumeIcon.icns
+._*
+
+# Node.js (если вдруг будешь использовать)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# VS Code / IDE настройки
+.vscode/
+.idea/
+
+# logs
+*.log
+
+# кэш браузера или временные файлы
+*.tmp
+*.swp
+*.bak
+*.orig
+
+# кэш Live Server и локальных серверов
+*.local
+
+# архивы и временные файлы
+*.zip
+*.tar
+*.gz
+*.rar
+
+# окружение
+.env
+.env.*
