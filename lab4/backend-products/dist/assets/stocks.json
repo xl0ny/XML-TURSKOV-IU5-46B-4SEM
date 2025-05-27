@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "src": "https://cdn-icons-png.flaticon.com/512/135/135620.png",
+    "title": "Молоко",
+    "text": "Фермерское молоко от местных поставщиков",
+    "badge": "Молочные"
+  },
+  {
+    "id": 2,
+    "src": "https://cdn-icons-png.flaticon.com/512/135/135637.png",
+    "title": "Новое название для продукта",
+    "text": "Ржаной хлеб с семенами льна",
+    "badge": "Выпечка"
+  },
+  {
+    "id": 3,
+    "src": "https://cdn-icons-png.flaticon.com/512/135/135674.png",
+    "title": "Яблоки",
+    "text": "Сочные яблоки из Краснодарского края",
+    "badge": "Фрукты"
+  },
+  {
+    "id": 4,
+    "src": "https://cdn-icons-png.flaticon.com/512/590/590685.png",
+    "title": "Бананы",
+    "text": "Спелые бананы из Эквадора",
+    "badge": "Фрукты"
+  },
+  {
+    "id": 5,
+    "src": "https://cdn-icons-png.flaticon.com/512/590/590665.png",
+    "title": "Сыр",
+    "text": "Классический российский сыр 45%",
+    "badge": "Молочные"
+  },
+  {
+    "id": 6,
+    "src": "https://cdn-icons-png.flaticon.com/512/1046/1046784.png",
+    "title": "Рыба",
+    "text": "Свежая форель охлажденная",
+    "badge": "Морепродукты"
+  },
+  {
+    "id": 7,
+    "src": "https://cdn-icons-png.flaticon.com/512/135/135648.png",
+    "title": "Яйца",
+    "text": "Домашние куриные яйца, категория C1",
+    "badge": "Молочные"
+  },
+  {
+    "id": 8,
+    "src": "https://cdn-icons-png.flaticon.com/512/135/135675.png",
+    "title": "Томат",
+    "text": "Помидоры свежие, грунтовые",
+    "badge": "Овощи"
+  },
+  {
+    "id": 9,
+    "src": "https://cdn-icons-png.flaticon.com/512/135/135677.png",
+    "title": "Огурец",
+    "text": "Огурцы гладкие, тепличные",
+    "badge": "Овощи"
+  },
+  {
+    "id": 10,
+    "src": "https://cdn-icons-png.flaticon.com/512/135/135641.png",
+    "title": "Печенье",
+    "text": "Печенье овсяное без сахара",
+    "badge": "Выпечка"
+  }
+]
